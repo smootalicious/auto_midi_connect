@@ -10,5 +10,5 @@ Scripts could aslo could also work with a RetroPie installation.
 
 For raspberry pi users please refer consider the original linked above.
 
-midi_connect.sh - automatically map every MIDI device onto every other MIDI device.
-midi_disconnect.sh - disconnects all mappings on all midi devices.
+- midi_connect.sh - automatically map every MIDI device onto every other MIDI device.
+- midi_disconnect.sh - disconnects all mappings on all midi devices.
